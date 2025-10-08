@@ -362,7 +362,7 @@ print("Scalene -> Area:", round(sca.compute_area(), 2), "Perimeter:", round(sca.
 tri_rect = TriRectangle(Point(0, 0), Point(3, 0), Point(0, 4))
 print("TriRectangle -> Area:", round(tri_rect.compute_area(), 2), "Perimeter:", round(tri_rect.compute_perimeter(), 2))
 ```
-## Reto 03 (`Reto_03.py`)  
+## Reto 04 (`Reto_04.py`)  
 
 ### Enunciado
 
